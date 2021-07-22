@@ -1,0 +1,16 @@
+Java to obiektowy język programowania (OOP – Object Oriented Programming) stworzony w 1995 przez Sun Microsystems, kilka lat temu kupiony przez korporację Oracle. Java przez lata rozprzestrzeniła się na większość systemów operacyjnych i urządzeń i jest jednym z najbardziej popularnych języków programowania.
+
+Ideą Javy jest to, że można jej używać na różnych platformach – laptopach, telefonach i innych urządzeniach oraz w różnych systemach, jak np. Windows, Linux, czy Android.
+
+Java jest cały czas rozwijana i z wersji na wersję oferuję coraz więcej funkcjonalności – aktualna wersja to 14, która została wydana w marcu 2020 roku. Obecnie, zazwyczaj wymaganą wersją Java w ofertach pracy jest 1.8 – chociaż do kompilacji i uruchamiania programów napisanych w języku Java będziemy korzystać z najnowszej wersji Javy, to zakres tego kurs skupia się na wersji 1.8.
+Zmiany wprowadzone do najnowszych wersji Javy skupiają się na bardziej zaawansowanych aspektach programowania w tym języku i nie są wymagane w trakcie nauki podstaw programowania w Javie. Do nauki podstaw, zakres funkcjonalności oferowany przez Javę 1.8 w zupełności wystarcza.
+
+Warto być programistą Java, ponieważ zapotrzebowanie na programistów Java na rynku jest bardzo duże i są to dobrze płatne oferty pracy. Jednakże, sama Java nie wystarczy – wymagania znajomości m. in. popularnego frameworku Spring, SQLa, Gita, czy też podstaw technologii frontendowych, można znaleźć w bardzo wielu ofertach pracy dla Javowców. Ten kurs skupia się na podstawach programowania w Javie i tematyka wykorzystania innych technologii nie jest w nim poruszana.
+Spring jest bardzo dobrze udokumentowany, a dodatkowo, na oficjalnej stronie, można znaleźć bardzo wiele darmowych tutoriali pokazujących, jak używać Springa:
+https://spring.io/guides
+
+SQL, czyli Structured Query Language, to język służący do pobierania i manipulowania danymi w bazie danych.
+
+Git to system kontroli wersji, który pozwala na wersjonowanie kodu źródłowego.
+
+Frontend to ta część aplikacji, którą widzi użytkownik. Backend to to, co dzieje się pod spodem – tutaj właśnie znajduje zastosowanie Java.
